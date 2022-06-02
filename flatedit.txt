@@ -1,0 +1,6 @@
+../bash/DOCS/MENU.md
+../bash/DOCS/ABOUT.md
+../examples/DOCS/DOCS.md
+../bash/DOCS/CONTRIBUTION.md
+../bash/DOCS/TODO.md
+../bash/DOCS/FOOT.md
