@@ -1,4 +1,4 @@
-./DOCS/MENU.md
+../docs/DOCS/MENU.md
 ../docs/DOCS/ABOUT.md
 ../examples/DOCS/DOCS.md
 ../bash/DOCS/START.md
