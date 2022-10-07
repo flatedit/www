@@ -1,6 +1,10 @@
-../bash/DOCS/MENU.md
-../bash/DOCS/ABOUT.md
+./DOCS/MENU.md
+../docs/DOCS/ABOUT.md
 ../examples/DOCS/DOCS.md
+../bash/DOCS/START.md
 ../bash/DOCS/CONTRIBUTION.md
-../bash/DOCS/TODO.md
-../bash/DOCS/FOOT.md
+../docs/DOCS/TODO.md
+../docs/DOCS/ASCIIFlow.md
+../docs/DOCS/TEXTIK.md
+../docs/DOCS/KEYWORDS.md
+./DOCS/FOOT.md
